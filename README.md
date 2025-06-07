@@ -1,3 +1,8 @@
+![Screenshot 2025-06-07 123031](https://github.com/user-attachments/assets/54f47e7c-7f2b-4cb4-9f1d-b12e2f5937c3)
+![Screenshot 2025-06-07 123105](https://github.com/user-attachments/assets/e42a6fe8-c259-47f3-a738-6d0601555d72)
+![Screenshot 2025-06-07 123052](https://github.com/user-attachments/assets/c0faee6c-65c7-4ce1-af9e-b6d49c7895d8)
+![Screenshot 2025-06-07 123119](https://github.com/user-attachments/assets/c4071b4d-83eb-47f1-954b-a8704ae8d9d6)
+![Screenshot 2025-06-07 123141](https://github.com/user-attachments/assets/1a710792-f9a8-4aec-a805-d5e83e2d8829)
 MyMediaApp
 MyMediaApp is a simple Android application that allows users to select an image or video from their device, checks its file size, and determines if it's within predefined limits for images (5 MB) and videos (20 MB).
 
